@@ -17,6 +17,8 @@ You will need the GNU C++ compiler to compile. Once the GNU C++ compiler is inst
 
 Later if you want to run it, you can enter this in the command line:
 
-```./magnet.exe```
+```./magnet.exe <file>```
+
+replace `<file>` with a text file to write the wordlist data into.
 
 (This works on linux, windows, and mac)
