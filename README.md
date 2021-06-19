@@ -21,4 +21,6 @@ Later if you want to run it, you can enter this in the command line:
 
 replace `<file>` with a text file to write the wordlist data into.
 
+If no arguments are specified, magnet will simply show combinations.
+
 (This works on linux, windows, and mac)
